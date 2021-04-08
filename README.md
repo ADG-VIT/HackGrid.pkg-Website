@@ -6,7 +6,6 @@
 1. HTML-5
 2. CSS
 3. JavaScript
-4. Typeform
 
 ## Contributors 👨‍💻:
 #### Web Developers 🌐:
