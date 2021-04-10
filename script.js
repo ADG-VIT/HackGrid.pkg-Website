@@ -1,5 +1,5 @@
 function redD(){
-    window.open('https://youtu.be/DLe6EDNh5WM', '_blank');
+    window.open('http://zuddl.com/', '_blank');
 }
 function redF(){
     window.open('#', '_blank');
