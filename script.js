@@ -1,8 +1,8 @@
 function redD(){
-    window.open('http://zuddl.com/', '_blank');
+    window.open('#', '_blank');
 }
 function redF(){
-    window.open('#', '_blank');
+    window.open('https://www.linkedin.com/in/vrijrajsingh/', '_blank');
 }
 function redB(){
     window.open('#', '_blank');
