@@ -1,6 +1,6 @@
 
 var countDownDate_design = new Date("Apr 10, 2021 13:30:00").getTime();
-var countDownDate_frontend = new Date("Apr 14, 2021 13:00:00").getTime();
+var countDownDate_frontend = new Date("Apr 14, 2021 16:45:00").getTime();
 var countDownDate_backend = new Date("Apr 17, 2021 13:00:00").getTime();
 
 var design_btn = document.getElementById("d_btn");
